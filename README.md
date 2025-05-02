@@ -1,4 +1,5 @@
 **Functional Requirements**
+
 User can enter:
 
 First Name, Last Name
@@ -24,6 +25,7 @@ Email is valid
 Terms are accepted
 
 **Non-Functional Requirements**
+
 Responsive design for mobile and desktop
 
 Clean and user-friendly UI
